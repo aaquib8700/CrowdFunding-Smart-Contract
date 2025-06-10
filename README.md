@@ -1,0 +1,1 @@
+This Solidity smart contract allows decentralized crowdfunding where contributors can fund a project, get refunds if the funding fails, and vote on how the funds should be used once the target is reached. It ensures transparency and trust between the manager and contributors.
